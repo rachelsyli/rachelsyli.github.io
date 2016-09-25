@@ -688,10 +688,10 @@ aside.clients img:hover {
 
 aside.clients .client {
     display: inline-block;
-    width: 24%;
+    width: 49%;
     height: 100px;
-    margin-bottom: 45px;
-    padding: 0 30px;
+    margin-bottom: 20px;
+    padding: 0 10px;
     vertical-align: top;
     position: relative;
 }
@@ -700,6 +700,14 @@ aside.clients .client-thumb {
     position: relative;
     width: 80%;
     height: 100%;
+}
+
+@media(min-width:768px) {
+    aside.clients .client {
+        width: 24%;
+        margin-bottom: 45px;
+        padding: 0 30px;
+    }
 }
 
 section#contact {
