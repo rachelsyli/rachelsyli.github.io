@@ -1,0 +1,15 @@
+---
+title: Tourism Innovation Challenge
+subtitle: Concept Development
+layout: default
+modal-id: 1
+date: 2015-03-01
+img: tourism.jpg
+thumbnail: tourism-thumbnail.jpg
+alt: image-alt
+project-date: March 2015
+client: Kultur Christianshavn Islands Brygge
+category: Concept Development
+description: The objective was to attract tourists to visit Islands Brygge. We developed a concept that combines gamification and sharing economy in order to involve tourists in experiencing the area in a fun and active way. The concept leveraged on the impact of social media and mobile storytelling, and allowed tourists to share their experiences with their peers in order to create a network effect.
+
+---

@@ -1,0 +1,15 @@
+---
+title: Copywriting
+subtitle: Content Creation
+layout: default
+modal-id: 2
+date: 2015-07-17
+img: pandora.jpg
+thumbnail: pandora-thumbnail.jpg
+alt: image-alt
+project-date: 2015-2016
+client: Pandora
+category: Content Creation
+description: Copywriting for all inflight advertising, in English, Simplified Chinese and Traditional Chinese. The objective was to come up with inspiring as well as informative product descriptions. My task was also to adapt the copywriting based on the target market, e.g. coming up with content related to Chinese New Year specifically for the Asian airlines.
+
+---

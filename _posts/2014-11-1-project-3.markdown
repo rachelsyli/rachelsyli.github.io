@@ -1,0 +1,15 @@
+---
+title: Asian Market Research
+subtitle: Social Media
+layout: default
+modal-id: 3
+date: 2014-11-1
+img: lego.jpg
+thumbnail: lego-thumbnail.jpg
+alt: image-alt
+project-date: November 2014
+client: LEGO
+category: Social Media
+description: Analysed the conversations between users around LEGO on the top Asian social media platforms and identified the major topics that perform best. The outcome of my research allowed the social media team of LEGO to better target the Asian market.
+
+---
